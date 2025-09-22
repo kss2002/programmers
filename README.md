@@ -1,6 +1,6 @@
-https://s3.ap-northeast-2.amazonaws.com/grepp-cloudfront/programmers_imgs/design/logo.jpg
+![logo](https://github.com/user-attachments/assets/26373eb4-4473-47c4-a770-711d938f653b)
 
-# programmers
+# programmers ❤️
 
 ```bash
 https://programmers.co.kr/
