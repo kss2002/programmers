@@ -2,6 +2,12 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1000) 
 
+## 참고할만한 글
+
+https://calkolab.tistory.com/entry/baekjoon-javascript-1000
+
+https://mywebproject.tistory.com/169
+
 ### 성능 요약
 
 메모리: 9344 KB, 시간: 92 ms
